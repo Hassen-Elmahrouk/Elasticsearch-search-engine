@@ -40,9 +40,8 @@ To get started with the Elasticsearch-search-engine project, follow these steps:
 
 Make sure you have the following dependencies installed:
 
-- ElasticSearch
-- Python (with necessary libraries specified in the 'how_to' files)
-- Flask
+- ElasticSearch(and jdk)
+- Python (with necessary libraries specified in the 'requirements' file)
 - JavaScript (for the web application)
 
 ## Feedback and Contributions
