@@ -1,0 +1,5 @@
+elasticsearch/elasticsearch-7.15.2
+elasticsearch/logstash-7.15.2
+
+search_with_photo_api/myenv
+elasticsearch/photo_metadata.csv

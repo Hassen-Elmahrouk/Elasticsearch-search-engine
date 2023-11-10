@@ -1,0 +1,2 @@
+crete virt env: python -m venv myenv
+activate it : myenv\Scripts\activate

@@ -1,0 +1,6 @@
+./logstash.bat -f D:\tools\ES\73\phtotos_flickr_conf_73.conf
+ 
+ 
+./logstash.bat -f D:\tools\ES\73\phtotos_flickr_ex_conf_73.conf
+
+./logstash.bat -f D:\aim\ter_indexation_p1_atelier1\phtotos_flickr_conf_73.conf
